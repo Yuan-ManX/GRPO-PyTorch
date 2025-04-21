@@ -5,3 +5,4 @@ deepspeed
 tqdm
 math_verify
 numpy
+tokenizers
